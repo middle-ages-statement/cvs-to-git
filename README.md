@@ -1,7 +1,6 @@
 # cvs-to-git
 CVS to GIT tutorial
 
-
 1. Merge vs. rebase
 
 2. Benefits
@@ -18,8 +17,9 @@ CVS to GIT tutorial
 
 5. Rebasing on top of main
 
+a. fix a commit
+b. rebsase from master
 
 
 
-
-
+FIX
